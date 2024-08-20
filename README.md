@@ -5,7 +5,7 @@ The Face Recognition-Based Attendance System automates attendance recording usin
 
 1. Clone the repository to your local machine. ``` git clone https://github.com/para8ox-deb/Face-Recognition-Attendance-System.git```
 2. Install the required packages using ```pip install -r requirements.txt```.
-3. Download the dlib models from https://drive.google.com/drive/folders/12It2jeNQOxwStBxtagL1vvIJokoz-DL4?usp=sharing and place the data folder inside the repo
+3. Download the dlib models from https://drive.google.com/drive/folders/1KiBEAYL_w6GfmHo5aBfPCzfR7a6kv7b-?usp=sharing and place the data folder inside the repo
 
     
 ## Usage
